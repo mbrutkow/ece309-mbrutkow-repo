@@ -1,2 +1,4 @@
 # ece309-fall18-unityid
-Repository for students to fork and modify.
+Michael Rutkowski
+ECE 309 - F18
+9/5/2018
